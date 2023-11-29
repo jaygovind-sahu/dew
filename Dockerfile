@@ -22,7 +22,7 @@ services:
       DB_HOST: db
       DB_PORT: 5432
       DB_USER: wikijs
-      DB_PASS: wikijsrocks
+      DB_PASS: wikijsrocks!
       DB_NAME: wiki
     restart: unless-stopped
     ports:
